@@ -5,10 +5,9 @@ class Anagram
     @word = word
   end
 
-  # def match(array)
-  #   %w[array]
-  # end
-
+  def match
+  end
+  
 
 
 
