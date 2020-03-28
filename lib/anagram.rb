@@ -5,7 +5,7 @@ class Anagram
   end
 
   def match(array)
-    %w[]
+    %w[@word]
   end
 
 
