@@ -5,7 +5,7 @@ class Anagram
     @words = words
   end
 
-  def match(array)
+  def match
     @words = words.each_with_object(Hash.name []) do |word, hash|
       hash[word.chars.sort] += [words]
     end
