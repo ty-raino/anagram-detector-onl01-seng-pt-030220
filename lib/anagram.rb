@@ -7,7 +7,7 @@ class Anagram
   def match(array)
     %w(array)
   end
-    
+
 
 
 
