@@ -4,8 +4,8 @@ class Anagram
   def initialize(word)
   end
 
-  def match(array)
-    %w[@word]
+  def match()
+    %w[]
   end
 
 
